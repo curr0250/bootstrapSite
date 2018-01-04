@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Bitter|Raleway');
+
+body{
+    margin: 1%;
+}
+h2{
+    
+    font-family: 'Bitter' , 'Book Antiqua', Palatino, serif;
+    margin-top: 10px;
+}
+
+h3{
+    font-family: 'Raleway' , helvetica, arial, sans-serif;
+}
+
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+ul{
+   list-style: none;
+    padding: 1px;
+}
+footer li{
+    margin-right: 10px;
+}
+footer li:hover{
+    background-color: white;
+}
+.cards li{
+    float: left;
+    margin-top: 2.5%;
+    border: 1px black solid;
+}
+footer{
+    clear: both;
+    margin-top: 2.5%;
+}
